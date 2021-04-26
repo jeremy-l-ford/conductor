@@ -29,6 +29,7 @@ gradleEnterprise {
 
 rootProject.name = 'conductor'
 
+include 'server-spring'
 include 'server'
 include 'common'
 include 'core'
